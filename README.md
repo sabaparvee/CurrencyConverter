@@ -1,0 +1,2 @@
+# CurrencyConverter
+CurrencyConverter in JavaScript
